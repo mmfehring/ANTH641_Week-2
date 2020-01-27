@@ -8,3 +8,12 @@
 
 ![alt text](https://66.media.tumblr.com/974b18a230e3aa96455daaad1c7a6e16/tumblr_mw4js1aNpv1sdk5yjo1_500.gifv)
 
+
+| This          | Is            | A Thing |
+| ------------- |:-------------:| -------:|
+| that can      | be used       |for data |
+| Sherd 2       | 25cmx10cm     |   grit  |
+| sherd 42      | 10cmx3cm      |   shell |
+
+------------------
+[For an in-depth analysis](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
